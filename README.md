@@ -2,6 +2,7 @@
 >This will show the weather of searched city.
 
 ## Technology Used:
+* Weather API fetch (for searched city data)
 * JavaScript
 * HTML
 * CSS
