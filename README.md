@@ -1,6 +1,8 @@
 # City-Weather
 >This will show the weather of searched city.
 
+[Click Here to see this app live](https://city-weather-by-dipesh.netlify.app/)
+
 ## Technology Used:
 * Weather API fetch (for searched city data)
 * JavaScript
